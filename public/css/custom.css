@@ -1,0 +1,9 @@
+body {
+    background-color: #c7e2c9;
+}
+
+.portfolio-index .cell h5.title {
+    font-family: Courier;
+    text-align: center;
+    color: #4c3c3c;
+}

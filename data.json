@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "It's a random quote generator",
+            "technologies": ["JavaScript", "HTML"],
+            "live_link": "https://chhaykunlai.github.io/Project-Random-Quote-Generator/",
+            "github_link": "https://github.com/chhaykunlai/Project-Random-Quote-Generator",
+            "image_urls": ["main.png", "sub-image1.png", "sub-image2.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "Make listing and pagination",
+            "technologies": ["JavaScript", "HTML"],
+            "live_link": "https://chhaykunlai.github.io/Project-List-Pagination-and-Filtering/",
+            "github_link": "https://github.com/chhaykunlai/Project-List-Pagination-and-Filtering",
+            "image_urls": ["main.png", "sub-image1.png", "sub-image2.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Create forms to collect information from users",
+            "technologies": ["JavaScript", "HTML", "jQuery"],
+            "live_link": "https://chhaykunlai.github.io/Project-Interactive-Form/",
+            "github_link": "https://github.com/chhaykunlai/Project-Interactive-Form",
+            "image_urls": ["main.png", "sub-image1.png", "sub-image2.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "It's Phrase Hunter for guessing character",
+            "technologies": ["JavaScript", "HTML"],
+            "live_link": "https://chhaykunlai.github.io/Project-OOP-Game-Show-App/",
+            "github_link": "https://github.com/chhaykunlai/Project-OOP-Game-Show-App",
+            "image_urls": ["main.png", "sub-image1.png", "sub-image2.png", "sub-image3.png", "sub-image4.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Communicate with the Random User Generator API to grab information for 12 random employees",
+            "technologies": ["JavaScript", "HTML", "jQuery"],
+            "live_link": "https://chhaykunlai.github.io/Project-Public-API-Requests/",
+            "github_link": "https://github.com/chhaykunlai/Project-Public-API-Requests",
+            "image_urls": ["main.png", "sub-image1.png", "sub-image2.png", "sub-image3.png"]
+        }
+    ]
+}
